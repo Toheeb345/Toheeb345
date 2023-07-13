@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Toheeb345&label=Profile%20views&theme=onedark&style=flat" alt="Toheeb" /> </p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Toheeb345&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
