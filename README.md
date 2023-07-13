@@ -2,7 +2,7 @@
 
 .. 👋 Hi, I’m Toheeb <br>
 .. 👀 I’m a FrontEnd Developer <br>
-.. 🌱 I’m a into Frontend Dev, with the use of HTML, CSS, and React.js with framer-motion
+.. 🌱 I’m a into Frontend Dev, with the use of HTML, CSS, React.js and Framer-Motion
 
 
 
