@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-. 👋 Hi, I’m Raji Roqeeb
-. 👀 I’m a 18 year-old Web Developer
-. 🌱 I’m currently into Frontend Development, with the use of HTML, CSS, and React.js with framer-motion
+.. 👋 Hi, I’m Toheeb <br>
+.. 👀 I’m a FrontEnd Developer <br>
+.. 🌱 I’m a into Frontend Dev, with the use of HTML, CSS, and React.js with framer-motion
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Toheeb345&label=Profile%20views&theme=onedark&style=flat" alt="Toheeb" /> </p>
 
-<p align="right">
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=Toheeb345&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 
 
@@ -18,6 +16,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheeb345&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Toheeb345&theme=dark">
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Toheeb345&label=Profile%20views&theme=onedark&style=flat" alt="Toheeb" /> </p>
 <!--
 **Toheeb345/Toheeb345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
