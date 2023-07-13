@@ -1,8 +1,15 @@
 ### Hi there 👋
+
+. 👋 Hi, I’m Raji Roqeeb
+. 👀 I’m a 18 year-old Web Developer
+. 🌱 I’m currently into Frontend Development, with the use of HTML, CSS, and React.js with framer-motion
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Toheeb345&label=Profile%20views&theme=onedark&style=flat" alt="Toheeb" /> </p>
 
+<p align="right">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Toheeb345&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Toheeb345&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toheeb345&theme=onedark)
