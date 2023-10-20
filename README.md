@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 .. 👋 Hi, I’m Toheeb <br>
-.. 👀 I’m a Web Developer <br>
+.. 👀 I’m a software engineer <br>
 <br><br>
 
 
